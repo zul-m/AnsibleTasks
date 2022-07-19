@@ -1,2 +1,2 @@
 # AnsibleTasks
-All collection of tasks in Ansible playbooks
+Collection of tasks in Ansible playbooks.
